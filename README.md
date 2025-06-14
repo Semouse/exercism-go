@@ -1,2 +1,3 @@
-exercism-go
-Repository for storing solutions to exercise from exercism: go track.
+# exercism-practice
+
+Repository for storing solutions for [exercism](https://exercism.org/) GO track.
